@@ -1,10 +1,4 @@
-#Tietoturvapolitiikka
+## abuse
 
-Kaikista projekteista ja tiedostoista saa ilmoittaa.
-
-## Haavoittuvuuksien ilmoittaminen
-
-Käytä tätä osiota ilmoittaaksesi haavoittuvuuksista tai muista tietoturvaongelmista.
-
-Kaikki ilmoitukset käsitellään mahdollisimman nopeasti - kiireellisissä tapauksissa otathan yhteyttä Vilhu#6462 Discordissa (i.e.
-unohdin sensuroida jotain tietoja koodista)
+i don't know what this section is about but if there's a security issue (i don't know why there would be one but anyway) use this to report it.
+my discord is Vilhu#0001 if needed
