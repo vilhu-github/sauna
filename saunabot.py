@@ -73,7 +73,7 @@ async def saunaon(ctx, arg):
 		else:
 			await ctx.message.add_reaction('⚠️')
 
-@saunapäälle.error
+@saunaon.error
 async def saunaon_error(ctx, error):
 	if isinstance(error, commands.MissingRequiredArgument):
 		await ctx.message.add_reaction("❓")
